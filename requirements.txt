@@ -1,0 +1,10 @@
+streamlit
+langchain
+html5lib
+lxml
+python-dotenv
+selenium
+beautifulsoup4
+requests
+openai
+langchain-ollama
